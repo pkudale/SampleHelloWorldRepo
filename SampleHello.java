@@ -10,6 +10,7 @@ public class SampleHello {
 		
 		System.out.println("Hello Its friday...");
 		
+		System.out.println("Hello Its friday...");
 	}
 
 }
