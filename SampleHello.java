@@ -8,6 +8,8 @@ public class SampleHello {
 		System.out.println("Hello..After Importing SampleProgram from GIt");
 		System.out.println("Final Commit");
 		
+		System.out.println("Hello Its friday...");
+		
 	}
 
 }
